@@ -94,7 +94,6 @@ print(output)
 
 # Output - [0, 4, 16]
 
-
 # 7) Extracting numbers only from a string and putting it in a list
 
 
