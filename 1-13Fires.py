@@ -35,7 +35,7 @@ data = [
         "lon": lons,
         "lat": lats,
         "marker": {
-            "size": [0.005 * b for b in brights],
+            "size": [0.01 * b for b in brights],
             "color": brights,
             "colorscale": "Viridis",
             "reversescale": True,
